@@ -74,7 +74,7 @@ A growing collection of daily practice questions, assignments, and experiments �
 ## 🤝 Let’s Connect
 
 - GitHub: https://github.com/Jay-Patel-cg/
-- LinkedIn: [Coming Soon](https://www.linkedin.com/in/jay-patel-8140b73a1/)
+- LinkedIn: https://www.linkedin.com/in/jay-patel-8140b73a1/
 - Email: jay.patel.a.cg@gmail.com
 
 ---
