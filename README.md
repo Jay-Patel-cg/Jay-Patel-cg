@@ -45,7 +45,7 @@ Some selected projects that reflect my learning journey and hands-on experience.
 
 | Project | Description | Demo |
 |-------|-------------|------|
-| 🎮 JavaScript Games | Small interactive games built using JS logic | [View Project]((https://github.com/Jay-Patel-cg/Games)) |
+| 🎮 JavaScript Games | Small interactive games built using JS logic | [View Project](https://github.com/Jay-Patel-cg/Games) |
 | 🎨 Color Palette Generator | Generates random color palettes with copy option | [View Project](https://github.com/Jay-Patel-cg/Games/tree/main/code) |
 | 🌐 Portfolio Website | Personal portfolio showcasing skills & projects | [View Project](https://github.com/Jay-Patel-cg) |
 | 📰 Learning | Clean news layout using HTML & CSS | [View Project](https://github.com/Jay-Patel-cg/Samir-Sir-JS) |
