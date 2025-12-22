@@ -45,11 +45,11 @@ Some selected projects that reflect my learning journey and hands-on experience.
 
 | Project | Description | Demo |
 |-------|-------------|------|
-| 🎮 JavaScript Games | Small interactive games built using JS logic | [View Project](https://your-link.com) |
-| 🎨 Color Palette Generator | Generates random color palettes with copy option | [View Project](https://your-link.com) |
-| 🌐 Portfolio Website | Personal portfolio showcasing skills & projects | [View Project](https://your-link.com) |
-| 📰 News Website UI | Clean news layout using HTML & CSS | [View Project](https://your-link.com) |
-| 📦 Mini Web Projects | Collection of practice projects | [View Project](https://your-link.com) |
+| 🎮 JavaScript Games | Small interactive games built using JS logic | [View Project]([https://your-link.com](https://github.com/Jay-Patel-cg/Games)) |
+| 🎨 Color Palette Generator | Generates random color palettes with copy option | [View Project]([https://your-link.com](https://github.com/Jay-Patel-cg/Games/tree/main/code)) |
+| 🌐 Portfolio Website | Personal portfolio showcasing skills & projects | [View Project[](https://your-link.com](https://github.com/Jay-Patel-cg)) |
+| 📰 Learning | Clean news layout using HTML & CSS | [View Project]([https://your-link.com](https://github.com/Jay-Patel-cg/Samir-Sir-JS)) |
+| 📦 Website-clones Projects | Collection of practice projects | [View Project]([https://your-link.com](https://github.com/Jay-Patel-cg/WebsiteMakingForPractise)) |
 
 ---
 
@@ -57,7 +57,7 @@ Some selected projects that reflect my learning journey and hands-on experience.
 
 A growing collection of daily practice questions, assignments, and experiments — from basics to advanced concepts.
 
-👉 **[Explore All Practice Work](https://github.com/yourusername/practice)**
+👉 **[Explore All Practice Work](https://github.com/Jay-Patel-cg/)**
 
 ---
 
@@ -73,9 +73,9 @@ A growing collection of daily practice questions, assignments, and experiments �
 
 ## 🤝 Let’s Connect
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: Coming Soon
-- Email: Optional
+- GitHub: https://github.com/Jay-Patel-cg/
+- LinkedIn: [Coming Soon](https://www.linkedin.com/in/jay-patel-8140b73a1/)
+- Email: jay.patel.a.cg@gmail.com
 
 ---
 
