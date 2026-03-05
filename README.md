@@ -76,6 +76,10 @@ A growing collection of daily practice questions, assignments, and experiments â
 - GitHub: https://github.com/Jay-Patel-cg/
 - LinkedIn: https://www.linkedin.com/in/jay-patel-8140b73a1/
 - Email: jay.patel.a.cg@gmail.com
+- LeetCode: https://leetcode.com/u/JayPatel2904/
+- Youtube: https://www.youtube.com/@JayPatel-j5e9n
+- Solo Learn: https://www.sololearn.com/en/profile/34952128
+- Twitter(X): https://x.com/JayPatel24504
 
 ---
 
