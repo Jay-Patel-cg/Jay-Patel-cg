@@ -22,11 +22,6 @@
 ---
 
 ---
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Jay-Patel-cg&label=Visitors&color=0e75b6&style=flat" />
-
-</div>
 
 ## 🧠 About Me
 
