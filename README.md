@@ -1,86 +1,31 @@
-# Hi there, I'm Jay Patel 👋
+<div align="center">
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jay%20Patel&fontSize=60&fontColor=00FFAA&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full%20Stack%20Dev%20%7C%20AI%20Explorer&descAlignY=60&descColor=a0aec0" width="100%"/>
 
-🚀 **Frontend & Web Developer from India**  
-🎯 Focused on building clean, responsive, and user-friendly web applications.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;LeetCode+Grinder+🏆;Building+Projects+That+Matter+🔥" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=JayPatel&color=0e75b6&style=flat)
+### 👨‍💻 Computer Engineering Student · Builder · Explorer
 
-I enjoy transforming ideas into real projects using modern web technologies.  
-Currently strengthening my **JavaScript fundamentals**, **UI/UX thinking**, and **real-world project structure**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patel-8140b73a1/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jay-Patel-cg)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JayPatel-j5e9n)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JayPatel2904/)
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🌱 Currently learning **Advanced JavaScript & API Integration**
-- 🎨 Interested in **UI/UX Design (Figma)**
-- 🧩 Love building **mini projects & JS games**
-- 🔍 Curious about how things work behind the scenes
-- 🛠️ Strong believer in *learning by building*
+```python
+class JayPatel:
+    def __init__(self):
+        self.name        = "Jay Patel"
+        self.role        = "Computer Engineering Student"
+        self.semester    = "2nd Semester"
+        self.location    = "Gujarat, India 🇮🇳"
+        self.passions    = ["Full Stack Development", "AI & ML", "Problem Solving"]
+        self.currently   = "Building real-world projects & improving DSA skills"
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,figma,git,github,vscode" />
-</p>
-
----
-
-## 💡 Skills
-
-- Frontend Development
-- Responsive Web Design
-- JavaScript Logic Building
-- DOM Manipulation
-- Basic Data Structures (C)
-- UI Design with Figma
-
----
-
-## 🌟 Featured Projects
-
-Some selected projects that reflect my learning journey and hands-on experience.
-
-| Project | Description | Demo |
-|-------|-------------|------|
-| 🎮 JavaScript Games | Small interactive games built using JS logic | [View Project](https://github.com/Jay-Patel-cg/Games) |
-| 🎨 Color Palette Generator | Generates random color palettes with copy option | [View Project](https://github.com/Jay-Patel-cg/Games/tree/main/code) |
-| 🌐 Portfolio Website | Personal portfolio showcasing skills & projects | [View Project](https://github.com/Jay-Patel-cg) |
-| 📰 Learning | Clean news layout using HTML & CSS | [View Project](https://github.com/Jay-Patel-cg/Samir-Sir-JS) |
-| 📦 Website-clones Projects | Collection of practice projects | [View Project](https://github.com/Jay-Patel-cg/WebsiteMakingForPractise) |
-
----
-
-## 📚 Learning Archive
-
-A growing collection of daily practice questions, assignments, and experiments — from basics to advanced concepts.
-
-👉 **[Explore All Practice Work](https://github.com/Jay-Patel-cg/)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Let’s Connect
-
-- GitHub: https://github.com/Jay-Patel-cg/
-- LinkedIn: https://www.linkedin.com/in/jay-patel-8140b73a1/
-- Email: jay.patel.a.cg@gmail.com
-- LeetCode: https://leetcode.com/u/JayPatel2904/
-- Youtube: https://www.youtube.com/@JayPatel-j5e9n
-- Solo Learn: https://www.sololearn.com/en/profile/34952128
-- Twitter(X): https://x.com/JayPatel24504
-
----
-
-### Built with ❤️ and curiosity by **Jay Patel**
+    def say_hi(self):
+        print("Let's build something impactful 🚀")
