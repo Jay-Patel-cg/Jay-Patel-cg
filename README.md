@@ -4,6 +4,10 @@
 
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;ML+%26+AI+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F;LeetCode+Grinder+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jay-Patel-cg&label=Profile%20Views&color=00ffaa&style=for-the-badge" />
+</p>
  
 ### 👨‍💻 Computer Engineering Student · Builder · Explorer
  
