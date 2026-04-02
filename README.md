@@ -33,7 +33,7 @@ class JayPatel:
 
     def say_hi(self):
         print("Let's build something impactful 🚀")
----
+```
 
 ## 🛠️ Tech Stack & Skills
 
