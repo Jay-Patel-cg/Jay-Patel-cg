@@ -101,6 +101,13 @@ class JayPatel:
 - 🏆 Grinding problems on **LeetCode**
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Jay-Patel-cg/Jay-Patel-cg/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ## 🤝 Let's Connect!
 
