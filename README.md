@@ -87,7 +87,7 @@ class JayPatel:
 
 <div align="center">
 
-[![Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev1822&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Jay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jay-Patel-cg&theme=tokyo-night)](https://github.com/Jay-Patel-cg)
 
 </div>
 
@@ -108,10 +108,10 @@ class JayPatel:
 
 I'm always open to learning, collaborating, and connecting with fellow developers. Reach out!
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-daxin-patel/)
-[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DevDaxinPatel)
-[![LeetCode](https://img.shields.io/badge/Follow%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/devpatel2007jan/)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev1822)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patel-8140b73a1/)
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JayPatel-j5e9n)
+[![LeetCode](https://img.shields.io/badge/Follow%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JayPatel2904/)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jay-Patel-cg)
 
 ---
 
@@ -124,5 +124,5 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 </div>
 
 <!--
-**Dev1822/Dev1822** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Jay/Jay Patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
