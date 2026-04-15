@@ -33,13 +33,15 @@ class JayPatel:
     def say_hi(self):
         print("Let's build something impactful 🚀")
 ```
-
+<div align="center">
 ### 👨‍💻 Computer Engineering Student · Builder · Explorer
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patel-8140b73a1/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jay-Patel-cg)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JayPatel-j5e9n)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JayPatel2904/)
+
+</div>
 
 ## 🛠️ Tech Stack & Skills
 
