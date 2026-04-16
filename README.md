@@ -48,9 +48,9 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 ## 🛠️ Tech Stack & Skills
 
+<div align="center">
 
 ### 💻 Core Languages
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -60,6 +60,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 ---
 
 ### 🌐 Frontend & Backend Development
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -69,6 +70,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 ---
 
 ### 🤖 Data & Intelligence (AI / ML / DS)
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
@@ -77,21 +79,24 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 ---
 
 ### ⚙️ Development Environment & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
+</div>
+
 ---
-
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Patel-cg&theme=tokyonight"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jay-Patel-cg&theme=tokyonight"/> </div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jay-Patel-cg&theme=tokyonight"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jay-Patel-cg&theme=tokyonight"/> 
+
+</div>
 
 ---
 
