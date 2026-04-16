@@ -18,20 +18,19 @@
 
 ## 🧠 About Me
 
-```python
-class JayPatel:
-    def __init__(self):
-        self.name        = "Jay Patel"
-        self.role        = "Computer Engineering Student"
-        self.semester    = "2nd Semester"
-        self.location    = "Gujarat, India 🇮🇳"
-        self.passions    = ["Full Stack Development", "AI & ML", "Problem Solving"]
-        self.currently   = "Building real-world projects & improving DSA skills"
-
-    def say_hi(self):
-        print("Let's build something impactful 🚀")
-```
+- 🎓 Computer Engineering student (1st Year)
+- 💻 Passionate about Full Stack Development
+- 🚀 Skilled in HTML, CSS, JavaScript, React, Node.js
+- 🤖 Exploring AI & Machine Learning
+- 🧠 Strong interest in Data Structures & Algorithms
+- 🏆 Regularly solving problems on LeetCode
+- 🔧 Building real-world projects to improve skills
+- 🌱 Always learning new technologies
+- 🤝 Open to collaboration and open-source contributions
+- 📍 Based in Gujarat, India 🇮🇳
+- 
 ---
+
 
 ## 🤝 Let's Connect!
 
