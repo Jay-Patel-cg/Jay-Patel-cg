@@ -16,8 +16,6 @@
  
 ---
 
----
-
 ## 🧠 About Me
 
 ```python
@@ -33,6 +31,7 @@ class JayPatel:
     def say_hi(self):
         print("Let's build something impactful 🚀")
 ```
+---
 
 ### 👨‍💻 Computer Engineering Student · Builder · Explorer
 
