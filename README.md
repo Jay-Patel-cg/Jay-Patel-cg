@@ -104,7 +104,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 
 
-## 📊 GitHub Stats
+<h3 align="left">## 📊 GitHub Stats</h3>
 
 <div align="center">
 
@@ -114,7 +114,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 ---
 
-## 📈 Contribution Graph
+<h3 align="left">## 📈 Contribution Graph </h3>
 
 <div align="center">
 
@@ -124,7 +124,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 ---
 
-## 🌱 Currently
+<h3 align="left">## 🌱 Currently </h3>
 
 - 🔭 Working on **full-stack web projects**
 - 📖 Learning **React.js** and **MongoDB**
@@ -132,7 +132,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 - 🏆 Grinding problems on **LeetCode**
 
 ---
-## 🐍 Contribution Snake
+<h3 align="left">## 🐍 Contribution Snake </h3>
 
 <div align="center">
 
