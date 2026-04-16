@@ -48,7 +48,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Core Languages
+<h3 align="left">💻 Core Languages</h3>
 
 <div align="center">
 
@@ -61,7 +61,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 ---
 
-### 🌐 Frontend & Backend Development
+<h3 align="left">🌐 Frontend & Backend Development</h3>
 
 <div align="center">
 
@@ -75,7 +75,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 ---
 
-### 🤖 Data & Intelligence (AI / ML / DS)
+<h3 align="left">🤖 Data & Intelligence (AI / ML / DS)</h3>
 
 <div align="center">
 
@@ -88,7 +88,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 
 ---
 
-### ⚙️ Development Environment & Tools
+<h3 align="left">⚙️ Development Environment & Tools</h3>
 
 <div align="center">
 
@@ -101,6 +101,7 @@ I'm always open to learning, collaborating, and connecting with fellow developer
 </div>
 
 ---
+
 
 
 ## 📊 GitHub Stats
